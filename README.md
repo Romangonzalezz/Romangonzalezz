@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romangonzalezz&label=Profile%20views&color=0e75b6&style=plastic" alt="romangonzalezz" /> </p>
 
-- 🌱 I’m currently learning **Django Framework**
+- 🌱 I’m currently growing using **Django Framework**
 
 - 📫 How to reach me **romangonzalezacc@gmail.com**
 
