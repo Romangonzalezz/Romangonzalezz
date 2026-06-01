@@ -27,5 +27,5 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=romangonzalezz&show_icons=true&theme=dark&locale=en&layout=compact" alt="romangonzalezz" /></p>
+
 💡 I love learning new backend technologies, optimizing APIs, and building efficient full-stack applications.
