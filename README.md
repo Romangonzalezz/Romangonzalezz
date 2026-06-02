@@ -19,7 +19,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a Full Stack Developer from Argentina with a strong focus on backend development.
 
@@ -31,7 +31,7 @@ I'm particularly interested in backend architecture, database design, software e
 
 ---
 
-## 🚀 Core Skills
+## Skills
 
 ### Backend Development
 
@@ -77,7 +77,7 @@ I'm particularly interested in backend architecture, database design, software e
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Backend
 
@@ -104,7 +104,7 @@ I'm particularly interested in backend architecture, database design, software e
 
 ---
 
-## 🎯 What I Enjoy Building
+## What I Enjoy Building
 
 * REST APIs and backend services
 * Business management platforms
