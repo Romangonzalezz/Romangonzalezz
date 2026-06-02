@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-  Full Stack Developer focused on Backend Development
+  Full Stack Developer with a strong Backend focus
 </h3>
 
 <p align="center">
@@ -23,11 +23,57 @@
 
 I'm a Full Stack Developer from Argentina with a strong focus on backend development.
 
-Most of my work involves building REST APIs, designing database structures, and developing web applications from planning to production. I enjoy creating software that solves real problems, keeping codebases maintainable, and continuously improving the systems I work on.
+My experience revolves around designing and building REST APIs, developing business-oriented applications, modeling relational databases, and creating maintainable backend architectures using Python and Django.
 
-Currently working with Django REST Framework, React, PostgreSQL, Docker, Railway, and Vercel.
+I have worked on projects covering the entire development lifecycle, from requirement analysis and feature planning to implementation, deployment, and maintenance. I enjoy solving real-world problems through software and building systems that are reliable, scalable, and easy to maintain.
 
-I'm also exploring mobile development with React Native and Expo while continuing to strengthen my backend and cloud deployment skills.
+I'm particularly interested in backend architecture, database design, software engineering practices, and AI-powered applications using modern LLM technologies.
+
+---
+
+## 🚀 Core Skills
+
+### Backend Development
+
+* REST API Design & Development
+* Authentication & Authorization
+* Role-Based Access Control (RBAC)
+* Business Logic Implementation
+* API Validation & Serialization
+* Third-Party API Integrations
+* Backend Architecture Design
+
+### Database Engineering
+
+* Relational Database Design
+* Data Modeling
+* Query Optimization
+* Schema Design
+* Performance-Oriented Development
+
+### Software Engineering
+
+* Object-Oriented Programming (OOP)
+* Clean Code Principles
+* Modular Architecture
+* Scalable Application Design
+* Debugging & Troubleshooting
+* Requirement Analysis & Feature Planning
+
+### Collaboration & Delivery
+
+* Git & Collaborative Workflows
+* Branching Strategies & Merge Management
+* Team-Based Development
+* Production Deployments
+* End-to-End Feature Development
+
+### AI & Modern Technologies
+
+* LLM Integrations
+* AI-Assisted Application Development
+* Prompt Engineering
+* Automation Workflows
 
 ---
 
@@ -45,43 +91,31 @@ I'm also exploring mobile development with React Native and Expo while continuin
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge\&logo=expo\&logoColor=white)
 
 ### Database & Infrastructure
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge\&logo=railway\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
 
 ### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 
 ---
 
-## 🚀 What I Like Building
+## 🎯 What I Enjoy Building
 
 * REST APIs and backend services
-* Business management systems
+* Business management platforms
 * Internal tools and dashboards
-* Database design and optimization
-* Full stack web applications
-* Deployment pipelines and production environments
-
----
-
-## 📈 Currently Learning
-
-* React Native & Expo
-* Advanced Docker workflows
-* System design and scalable architectures
-* Performance optimization for APIs and databases
+* Full-stack web applications
+* Database-driven systems
+* AI-powered solutions
+* Automation tools and integrations
 
 ---
 
 <p align="center">
-  <i>Building useful software, one project at a time.</i>
+  <i>Building software that solves real problems.</i>
 </p>
